@@ -1,2 +1,0 @@
-- 👋 Hi, I’m @GDoubleSix
-- 👀 I’m interested in Tech
